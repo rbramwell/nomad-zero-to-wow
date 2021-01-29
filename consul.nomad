@@ -13,7 +13,7 @@ job "consul" {
             }
 
             artifact {
-                source      = "https://releases.hashicorp.com/consul/1.6.2/consul_1.6.2_darwin_amd64.zip"
+                source = "https://releases.hashicorp.com/consul/1.9.2/consul_1.9.2_linux_amd64.zip"
             }
         }
     }
